@@ -15,17 +15,48 @@
       "name": "Arcadeous",
       "bundleIdentifier": "com.deviousdevelopments.arcadeous",
       "developerName": "Devious Developments",
-      "subtitle": "Run your own arcade.",
-      "localizedDescription": "Build an arcade from an empty floor: buy cabinets, set prices, keep the lights on, and play every machine yourself. iPhone beta: touch controls on screen, the same save system as the PC game.",
+      "subtitle": "Own an arcade. Play every machine.",
+      "localizedDescription": "Own an arcade from minute one. Fill the floor with cabinets you can walk up to and actually play, set the ticket payout, stock the prize counter and keep the crowd coming back. A first-person arcade management sim where every machine is a real game.\n\n• 59 playable cabinets: 50 coin-op games plus 9 ticket games, original games in the classic 1980s arcade style, drawn in real pixel art, including the fighter DOJO\n• Ticket games, a prize counter and a prize wall of upgrades\n• Where a machine sits changes what it earns: sightlines, walking routes and neighbours\n• One new idea at a time: quarter games, then ticket games, then the ticket booth, then your own prize wall\n\niPhone beta: an on-screen controller (left thumb moves, drag right to look, tap to use; A B X Y in every cabinet).",
       "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.arcadeous.png",
       "tintColor": "#38C8FF",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.arcadeous/01.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.arcadeous/02.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.arcadeous/03.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.arcadeous/04.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.arcadeous/05.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.arcadeous/06.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "versions": [
         {
           "version": "0.11.26",
           "buildVersion": "0.11.26",
-          "date": "2026-10-23T13:59:55+00:00",
+          "date": "2026-10-23T14:08:46+00:00",
           "localizedDescription": "Arcadeous 0.11.26 for iPhone.",
           "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.ipa",
           "size": 39745461,
@@ -318,7 +349,7 @@
       "title": "Arcadeous 0.11.26",
       "identifier": "com.deviousdevelopments.arcadeous-0.11.26",
       "caption": "Arcadeous 0.11.26 for iPhone.",
-      "date": "2026-10-23T13:59:55+00:00",
+      "date": "2026-10-23T14:08:46+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
