@@ -42,11 +42,11 @@
   "versions": [
     {
       "version": "0.11.26",
-      "buildVersion": "0.11.26.2",
-      "date": "2026-10-23T20:22:44+00:00",
+      "buildVersion": "0.11.26.3",
+      "date": "2026-10-23T22:19:07+00:00",
       "localizedDescription": "Arcadeous 0.11.26 for iPhone.",
       "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.ipa",
-      "size": 39754511,
+      "size": 39764413,
       "minOSVersion": "14.0"
     }
   ],
