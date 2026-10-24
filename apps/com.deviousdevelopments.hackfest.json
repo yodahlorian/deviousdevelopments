@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.20.1.1",
-      "buildVersion": "0.20.1.1",
-      "date": "2026-10-24T13:40:57+00:00",
-      "localizedDescription": "Hackfest 0.20.1.1 for iPhone (game version 0.20.1).",
-      "downloadURL": "https://github.com/yodahlorian/hackfest-beta/releases/download/beta/Hackfest-0.20.1.1.ipa",
-      "size": 31088049,
+      "version": "0.20.1.2",
+      "buildVersion": "0.20.1.2",
+      "date": "2026-10-24T15:07:24+00:00",
+      "localizedDescription": "Hackfest 0.20.1.2 for iPhone (game version 0.20.1).",
+      "downloadURL": "https://github.com/yodahlorian/hackfest-beta/releases/download/beta/Hackfest-0.20.1.2.ipa",
+      "size": 31088862,
       "minOSVersion": "14.0"
     }
   ],
