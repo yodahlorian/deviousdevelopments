@@ -82,7 +82,38 @@
       "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.hackfest.png?v=0f13c59812",
       "tintColor": "#16C60C",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/01.jpg",
+          "width": 1950,
+          "height": 900
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/02.jpg",
+          "width": 1950,
+          "height": 900
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/03.jpg",
+          "width": 1950,
+          "height": 900
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/04.jpg",
+          "width": 1950,
+          "height": 900
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/05.jpg",
+          "width": 1950,
+          "height": 900
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/06.jpg",
+          "width": 1950,
+          "height": 900
+        }
+      ],
       "versions": [
         {
           "version": "0.20.1.1",

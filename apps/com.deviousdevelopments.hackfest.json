@@ -4,10 +4,41 @@
   "developerName": "Devious Developments",
   "subtitle": "Build the rig. Break the corp.",
   "localizedDescription": "You were fired from CorpoMax. Time for payback.\n\nStart with an empty desk and a budget. Order parts, assemble the tower (every watt and every gigabyte counts, and without a network card you are not getting online), image an operating system and boot into HackfestOS. Then go to work on CorpoMax.\n\n• Crack firewalls to get a foothold on the network\n• Read the logs: real employee names are in there, and tracing them is how you find the next way in\n• Every layer of the network is a lock with a real answer\n• Seed malware that earns while you sleep, and spend it on hardware that cracks faster\n\niPhone beta: everything is a tap; typing fields bring up the keyboard.",
-  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.hackfest.png",
+  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.hackfest.png?v=0f13c59812",
   "tintColor": "#16C60C",
   "category": "games",
-  "screenshots": [],
+  "screenshots": [
+    {
+      "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/01.jpg",
+      "width": 1950,
+      "height": 900
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/02.jpg",
+      "width": 1950,
+      "height": 900
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/03.jpg",
+      "width": 1950,
+      "height": 900
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/04.jpg",
+      "width": 1950,
+      "height": 900
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/05.jpg",
+      "width": 1950,
+      "height": 900
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.hackfest/06.jpg",
+      "width": 1950,
+      "height": 900
+    }
+  ],
   "versions": [
     {
       "version": "0.20.1.1",
