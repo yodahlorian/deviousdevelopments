@@ -4,7 +4,7 @@
   "developerName": "Devious Developments",
   "subtitle": "Own an arcade. Play every machine.",
   "localizedDescription": "Own an arcade from minute one. Fill the floor with cabinets you can walk up to and actually play, set the ticket payout, stock the prize counter and keep the crowd coming back. A first-person arcade management sim where every machine is a real game.\n\n• 59 playable cabinets: 50 coin-op games plus 9 ticket games, original games in the classic 1980s arcade style, drawn in real pixel art, including the fighter DOJO\n• Ticket games, a prize counter and a prize wall of upgrades\n• Where a machine sits changes what it earns: sightlines, walking routes and neighbours\n• One new idea at a time: quarter games, then ticket games, then the ticket booth, then your own prize wall\n\niPhone beta: an on-screen controller (left thumb moves, drag right to look, tap to use; A B X Y in every cabinet).",
-  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.arcadeous.png",
+  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.arcadeous.png?v=b540dd5e3a",
   "tintColor": "#38C8FF",
   "category": "games",
   "screenshots": [

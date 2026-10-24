@@ -3,7 +3,7 @@
   "identifier": "com.deviousdevelopments.studio",
   "subtitle": "Every iPhone beta from Devious Developments",
   "description": "One source for every Devious Developments game: Arcadeous · Hackfest · Killer 2s.",
-  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/studio.png",
+  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/studio.png?v=c59be285ac",
   "website": "https://github.com/yodahlorian/deviousdevelopments",
   "tintColor": "#C9A44C",
   "featuredApps": [
@@ -18,7 +18,7 @@
       "developerName": "Devious Developments",
       "subtitle": "Own an arcade. Play every machine.",
       "localizedDescription": "Own an arcade from minute one. Fill the floor with cabinets you can walk up to and actually play, set the ticket payout, stock the prize counter and keep the crowd coming back. A first-person arcade management sim where every machine is a real game.\n\n• 59 playable cabinets: 50 coin-op games plus 9 ticket games, original games in the classic 1980s arcade style, drawn in real pixel art, including the fighter DOJO\n• Ticket games, a prize counter and a prize wall of upgrades\n• Where a machine sits changes what it earns: sightlines, walking routes and neighbours\n• One new idea at a time: quarter games, then ticket games, then the ticket booth, then your own prize wall\n\niPhone beta: an on-screen controller (left thumb moves, drag right to look, tap to use; A B X Y in every cabinet).",
-      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.arcadeous.png",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.arcadeous.png?v=b540dd5e3a",
       "tintColor": "#38C8FF",
       "category": "games",
       "screenshots": [
@@ -79,7 +79,7 @@
       "developerName": "Devious Developments",
       "subtitle": "Build the rig. Break the corp.",
       "localizedDescription": "You were fired from CorpoMax. Time for payback.\n\nStart with an empty desk and a budget. Order parts, assemble the tower (every watt and every gigabyte counts, and without a network card you are not getting online), image an operating system and boot into HackfestOS. Then go to work on CorpoMax.\n\n• Crack firewalls to get a foothold on the network\n• Read the logs: real employee names are in there, and tracing them is how you find the next way in\n• Every layer of the network is a lock with a real answer\n• Seed malware that earns while you sleep, and spend it on hardware that cracks faster\n\niPhone beta: everything is a tap; typing fields bring up the keyboard.",
-      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.hackfest.png",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.hackfest.png?v=0f13c59812",
       "tintColor": "#16C60C",
       "category": "games",
       "screenshots": [],
@@ -109,7 +109,7 @@
       "developerName": "Devious Developments",
       "subtitle": "Shed your hand. Save your 2s. Take the pile.",
       "localizedDescription": "A shedding card game (Tiến Lên / \"Thirteen\" / \"Killer\", with our own ladder, kills and bombs) and a roguelike run on top: crews, tricks, bosses, enhanced cards. Public beta by Devious Developments. Play in landscape.",
-      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.killer2s.png",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.killer2s.png?v=258341f778",
       "tintColor": "#C9A44C",
       "category": "games",
       "screenshots": [
