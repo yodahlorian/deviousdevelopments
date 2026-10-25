@@ -118,8 +118,8 @@
         {
           "version": "0.20.1.2",
           "buildVersion": "0.20.1.2",
-          "date": "2026-10-24T15:07:24+00:00",
-          "localizedDescription": "Hackfest 0.20.1.2 for iPhone (game version 0.20.1).",
+          "date": "2026-10-25T20:29:19+00:00",
+          "localizedDescription": "- The main menu's Exit, the desktop start menu's Quit and the phone's Quit Game are gone on iPhone (an iPhone app is closed by swiping it away). The PC keeps all three.",
           "downloadURL": "https://github.com/yodahlorian/hackfest-beta/releases/download/beta/Hackfest-0.20.1.2.ipa",
           "size": 31088862,
           "minOSVersion": "14.0"
@@ -419,8 +419,8 @@
     {
       "title": "Hackfest 0.20.1.2",
       "identifier": "com.deviousdevelopments.hackfest-0.20.1.2",
-      "caption": "Hackfest 0.20.1.2 for iPhone (game version 0.20.1).",
-      "date": "2026-10-24T15:07:24+00:00",
+      "caption": "The main menu's Exit, the desktop start menu's Quit and the phone's Quit Game are gone on iPhone (an iPhone app is closed by swiping it away",
+      "date": "2026-10-25T20:29:19+00:00",
       "tintColor": "#16C60C",
       "notify": false,
       "appID": "com.deviousdevelopments.hackfest"
