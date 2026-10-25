@@ -43,8 +43,8 @@
     {
       "version": "0.11.26.9",
       "buildVersion": "0.11.26.9",
-      "date": "2026-10-24T19:09:31+00:00",
-      "localizedDescription": "Arcadeous 0.11.26.9 for iPhone.",
+      "date": "2026-10-25T20:28:02+00:00",
+      "localizedDescription": "- Delivery boxes pick up in one click. One tap used to pick the box up and put it straight back down, so it crept a little each time.",
       "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.9.ipa",
       "size": 40340390,
       "minOSVersion": "14.0"
