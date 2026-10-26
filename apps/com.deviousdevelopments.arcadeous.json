@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.26.11",
-      "buildVersion": "0.11.26.11",
-      "date": "2026-10-26T17:31:13+00:00",
-      "localizedDescription": "- Quarters no longer run out. Customers used to change their whole wallet into quarters at the door and walk out with whatever they didn't spend — about a third of your change machine's float, every day, until it ran dry by day four. Now they only take the quarters they actually play, so the store's quarters stay in the store.\n- Some customers bring their own quarters and spend those first, so your float slowly grows instead of shrinking.",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.11.ipa",
-      "size": 40344233,
+      "version": "0.11.26.12",
+      "buildVersion": "0.11.26.12",
+      "date": "2026-10-26T18:58:19+00:00",
+      "localizedDescription": "- You can charge a real price for a game. The price list stopped at 5 cents. It now runs from FREE up to $2.50 in quarters, and every machine's normal price is on it. A game you set to a few cents in an older build is moved up to the matching quarter price when you load.\n- Swiping a menu no longer picks the row under your finger. A row is chosen when you tap it and let go. A swipe turns the page, one page per swipe, on long lists like the build menu.",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.12.ipa",
+      "size": 40346021,
       "minOSVersion": "14.0"
     }
   ],
