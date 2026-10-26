@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.26.13",
-          "buildVersion": "0.11.26.13",
-          "date": "2026-10-26T20:27:37+00:00",
-          "localizedDescription": "- A change machine in a corner works again. You could only use it from its side, so tucked into a corner with that side against a wall it couldn't be reached at all. Now you stand at its front, like every other machine.\n- The price list shows the new price straight away. After you picked a price, the list still marked the old one as current.",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.13.ipa",
-          "size": 40341913,
+          "version": "0.11.27.1",
+          "buildVersion": "0.11.27.1",
+          "date": "2026-10-26T21:53:10+00:00",
+          "localizedDescription": "- Used cabinets get their own spot. Every used machine was set down on the same spot, so a second one landed on top of the first and looked like it had replaced it. Each one now goes to the next free space on your floor, like a new machine. If there is no free space, the sale doesn't go through and nothing is charged.\n- Used cabinets can be moved. MOVE THIS CABINET was greyed out on them (\"part of the fittings\"). It works now, including on one you already bought — so two that ended up on one spot can be pulled apart.\n- The PC and iPhone builds share one version again: this is the game at 0.11.27.",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.27.1.ipa",
+          "size": 40528810,
           "minOSVersion": "14.0"
         }
       ],
@@ -408,10 +408,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.26.13",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.26.13",
-      "caption": "A change machine in a corner works again. You could only use it from its side, so tucked into a corner with that side against a wall it coul",
-      "date": "2026-10-26T20:27:37+00:00",
+      "title": "Arcadeous 0.11.27.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.27.1",
+      "caption": "Used cabinets get their own spot. Every used machine was set down on the same spot, so a second one landed on top of the first and looked li",
+      "date": "2026-10-26T21:53:10+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
