@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.26.10",
-      "buildVersion": "0.11.26.10",
-      "date": "2026-10-25T23:15:55+00:00",
-      "localizedDescription": "- The pause menu stays open. Tapping ☰ opened it and closed it again straight away — the menu read your finger, still on the button, as a second press. A button you are holding when the screen changes now counts only once you let go.",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.10.ipa",
-      "size": 40341105,
+      "version": "0.11.26.11",
+      "buildVersion": "0.11.26.11",
+      "date": "2026-10-26T01:57:12+00:00",
+      "localizedDescription": "- Quarters no longer run out. Customers used to change their whole wallet into quarters at the door and walk out with whatever they didn't spend — about a third of your change machine's float, every day, until it ran dry by day four. Now they only take the quarters they actually play, so the store's quarters stay in the store.\n- Some customers bring their own quarters and spend those first, so your float slowly grows instead of shrinking.",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.26.11.ipa",
+      "size": 40344233,
       "minOSVersion": "14.0"
     }
   ],
