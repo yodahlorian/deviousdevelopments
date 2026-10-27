@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.28.3",
-          "buildVersion": "0.11.28.3",
-          "date": "2026-10-27T19:25:28+00:00",
-          "localizedDescription": "- A cabinet's cash box counts quarters. Standing at a machine showed its takings in cents (\"100 coins\" for $1.00). It now reads \"4 quarters ($1.00)\", which is what you get when you empty it. (Thanks to the tester who sent this with /bug.)\n- ▶ starts every game. On the 3D machines (the ones with rounds) the ▶ button in the corner did nothing — only their main button started a round. It starts all of them now.\n- ✕ BACK in the shop console goes back a page. It used to throw you out of the console altogether.",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.3.ipa",
-          "size": 40532977,
+          "version": "0.11.28.4",
+          "buildVersion": "0.11.28.4",
+          "date": "2026-10-27T20:00:32+00:00",
+          "localizedDescription": "- The ArcadeList says when a licence is included. A used cabinet for a game you haven't licensed yet costs the cabinet plus that game's licence, and the button showed that total with no word about the licence, so it looked like the wrong price. Each row now reads \"+ $180.00 licence\" and the button \"buy + licence — $293.26\". (Thanks to the tester who sent this with /bug.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.4.ipa",
+          "size": 40533125,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.28.3",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.28.3",
-      "caption": "A cabinet's cash box counts quarters. Standing at a machine showed its takings in cents (\"100 coins\" for $1.00). It now reads \"4 quarters ($",
-      "date": "2026-10-27T19:25:28+00:00",
+      "title": "Arcadeous 0.11.28.4",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.28.4",
+      "caption": "The ArcadeList says when a licence is included. A used cabinet for a game you haven't licensed yet costs the cabinet plus that game's licenc",
+      "date": "2026-10-27T20:00:32+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
