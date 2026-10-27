@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.28.2",
-          "buildVersion": "0.11.28.2",
-          "date": "2026-10-27T13:27:59+00:00",
-          "localizedDescription": "- The whole shop speaks phone, not just the games. Your task card, the out-of-quarters lesson, the pop-up notices and the celebration screen still said \"click\" and \"Esc\". They now say tap, USE, BACK and the other words on your buttons.\n- Swiping long menus works in a busy arcade. With a full floor the game can slow down, and a quick swipe on a long list (like the build menu) was read as too slow, so the page didn't turn. A quick swipe turns the page however busy it gets.",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.2.ipa",
-          "size": 40530026,
+          "version": "0.11.28.3",
+          "buildVersion": "0.11.28.3",
+          "date": "2026-10-27T19:25:28+00:00",
+          "localizedDescription": "- A cabinet's cash box counts quarters. Standing at a machine showed its takings in cents (\"100 coins\" for $1.00). It now reads \"4 quarters ($1.00)\", which is what you get when you empty it. (Thanks to the tester who sent this with /bug.)\n- ▶ starts every game. On the 3D machines (the ones with rounds) the ▶ button in the corner did nothing — only their main button started a round. It starts all of them now.\n- ✕ BACK in the shop console goes back a page. It used to throw you out of the console altogether.",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.3.ipa",
+          "size": 40532977,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.28.2",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.28.2",
-      "caption": "The whole shop speaks phone, not just the games. Your task card, the out-of-quarters lesson, the pop-up notices and the celebration screen s",
-      "date": "2026-10-27T13:27:59+00:00",
+      "title": "Arcadeous 0.11.28.3",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.28.3",
+      "caption": "A cabinet's cash box counts quarters. Standing at a machine showed its takings in cents (\"100 coins\" for $1.00). It now reads \"4 quarters ($",
+      "date": "2026-10-27T19:25:28+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
