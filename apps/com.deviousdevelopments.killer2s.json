@@ -4,7 +4,7 @@
   "developerName": "Devious Developments",
   "subtitle": "Shed your hand. Save your 2s. Take the pile.",
   "localizedDescription": "A shedding card game (Tiến Lên / \"Thirteen\" / \"Killer\", with our own ladder, kills and bombs) and a roguelike run on top: crews, tricks, bosses, enhanced cards. Public beta by Devious Developments. Play in landscape.",
-  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.killer2s.png",
+  "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.killer2s.png?v=258341f778",
   "tintColor": "#C9A44C",
   "category": "games",
   "screenshots": [
@@ -26,12 +26,21 @@
   ],
   "versions": [
     {
+      "version": "0.7.6",
+      "buildVersion": "0.7.6",
+      "date": "2026-10-27T19:19:48+00:00",
+      "localizedDescription": "- iPhone: tap to read at the table. Tap a crew member on the table card to read what it does (it only showed when a mouse hovered it). Tap a Trick and its note comes up first; tap it again to use it. One tap no longer spends a Trick you haven't read.\n- Selling asks first: tap \"sell $\" and the crew member's note opens with \"Tap sell again to sell\". Tap it again to sell; tap anywhere else and they stay.\n- iPhone: the Collection shows what an item is when you tap it (it was hover-only, so on the phone it said nothing).\n- iPhone: the Play / Pass / Hint / Clear / Sort buttons no longer underline a keyboard shortcut letter, and the table says \"tap\", not \"click\".",
+      "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.6.ipa",
+      "size": 22348250,
+      "minOSVersion": "14.0"
+    },
+    {
       "version": "0.7.5",
       "buildVersion": "0.7.5",
-      "date": "2026-10-23T03:50:43+00:00",
+      "date": "2026-10-22",
       "localizedDescription": "- No silent replacing: using a bonus card (in the Locker, or on the spot from a pack) or Copycat that would push a bonus of the same kind off a card now asks first, \"Replace with …\" or Back. Back changes nothing.\n- Run sheet › Your deck: the whole deck as cards, each with its bonus chips. Tap a card to read every bonus on it and what each one does.\n- Speed: 1×, 2×, 4× or Instant, in the pause menu and on the title screen (remembered). 2× and 4× run the whole table faster: the CPUs' turns, card flights, the score count-up and the pen writing on every sheet. Instant skips the show: CPU moves land at once, each play shows its final score, and the table report and the Locker appear already filled in. The scoring itself is exactly the same at every speed.\n- One version for every platform: PC, web and iPhone all carry the same number from now on.",
       "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.5.ipa",
-      "size": 22347134,
+      "size": 0,
       "minOSVersion": "14.0"
     },
     {
