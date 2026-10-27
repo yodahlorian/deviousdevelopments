@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.27.1",
-          "buildVersion": "0.11.27.1",
-          "date": "2026-10-26T21:53:10+00:00",
-          "localizedDescription": "- Used cabinets get their own spot. Every used machine was set down on the same spot, so a second one landed on top of the first and looked like it had replaced it. Each one now goes to the next free space on your floor, like a new machine. If there is no free space, the sale doesn't go through and nothing is charged.\n- Used cabinets can be moved. MOVE THIS CABINET was greyed out on them (\"part of the fittings\"). It works now, including on one you already bought — so two that ended up on one spot can be pulled apart.\n- The PC and iPhone builds share one version again: this is the game at 0.11.27.",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.27.1.ipa",
-          "size": 40528810,
+          "version": "0.11.27.2",
+          "buildVersion": "0.11.27.2",
+          "date": "2026-10-27T01:00:19+00:00",
+          "localizedDescription": "- CANCEL cancels. Moving a cabinet and tapping CANCEL opened the pause menu and left the cabinet in your hands. Now it puts the cabinet back where it was and the game carries on. (Thanks to the tester who sent this with /bug.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.27.2.ipa",
+          "size": 40528592,
           "minOSVersion": "14.0"
         }
       ],
@@ -408,10 +408,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.27.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.27.1",
-      "caption": "Used cabinets get their own spot. Every used machine was set down on the same spot, so a second one landed on top of the first and looked li",
-      "date": "2026-10-26T21:53:10+00:00",
+      "title": "Arcadeous 0.11.27.2",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.27.2",
+      "caption": "CANCEL cancels. Moving a cabinet and tapping CANCEL opened the pause menu and left the cabinet in your hands. Now it puts the cabinet back w",
+      "date": "2026-10-27T01:00:19+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
