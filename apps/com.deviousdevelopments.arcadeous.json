@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.28.5",
-      "buildVersion": "0.11.28.5",
-      "date": "2026-10-27T20:55:30+00:00",
-      "localizedDescription": "- Cabinets keep their art. After you left a game or bought from the ArcadeList, every machine on the floor turned white: the shop rebuilt itself, and the new cabinets were copied from ones whose artwork had just been thrown away. Each rebuild now paints its own. (Thanks to the tester who sent this with /bug.)\n- Typing never hides behind the keyboard. Some text boxes didn't move up when the phone's keyboard opened, so you typed into a box you couldn't see. Every one lifts above it now.",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.5.ipa",
-      "size": 40535831,
+      "version": "0.11.28.6",
+      "buildVersion": "0.11.28.6",
+      "date": "2026-10-27T23:56:05+00:00",
+      "localizedDescription": "- Your own music on the radio, on the phone. The radio said to drop songs into an \"Arcadeous\" folder that an iPhone doesn't have. Put them in the Files app under On My iPhone › Arcadeous › music, and the radio says so. (Thanks to the tester who sent this with /bug.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.6.ipa",
+      "size": 40530292,
       "minOSVersion": "14.0"
     }
   ],
