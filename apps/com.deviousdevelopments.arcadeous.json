@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.32.1",
-      "buildVersion": "0.11.32.1",
-      "date": "2026-10-29T15:33:20+00:00",
-      "localizedDescription": "- The ticket machines are really here now. 0.11.29 to 0.11.31 opened the redemption booth at level 10 but left every ticket machine saying \"COMING SOON!\" on the licence page. They now unlock from level 10 (Drop Zone) to 18 (Coin Pusher), at the new lower prices. (Thanks to the tester who sent this with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.32.1.ipa",
-      "size": 40590951,
+      "version": "0.11.33.1",
+      "buildVersion": "0.11.33.1",
+      "date": "2026-10-29T16:52:50+00:00",
+      "localizedDescription": "- Your technician gets in through the front door. Before you open for the day, the doors only swung for you, so a hired technician walked into a shut door, and if you came up behind them it swung into them. The doors now open for anyone walking through and stay open until they are clear. (Thanks to the tester who sent this with /bug.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.33.1.ipa",
+      "size": 40596088,
       "minOSVersion": "14.0"
     }
   ],
