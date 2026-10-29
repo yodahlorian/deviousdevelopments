@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.34.1",
-      "buildVersion": "0.11.34.1",
-      "date": "2026-10-29T22:18:47+00:00",
-      "localizedDescription": "- Used cabinets never land inside a wall. Once the walls filled up, a used cabinet could be set down in the corner by the back room, half inside the wall, where nobody could reach it. Every used cabinet now goes to a spot with room for it and room to stand at it. If there's no such spot left, the ArcadeList won't sell it, and nothing is charged. (Thanks to the tester who sent this with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.34.1.ipa",
-      "size": 40606874,
+      "version": "0.11.35.1",
+      "buildVersion": "0.11.35.1",
+      "date": "2026-10-29T23:03:11+00:00",
+      "localizedDescription": "- A cabinet stuck in a wall is moved out. Shops saved before 0.11.34 could still hold a used cabinet set into the back-room wall, where nobody could reach it. Load your game and it's moved to the nearest free spot on the floor, ready to use. Nothing else moves. (Thanks to the tester who sent this with /bug.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.35.1.ipa",
+      "size": 40605280,
       "minOSVersion": "14.0"
     }
   ],
