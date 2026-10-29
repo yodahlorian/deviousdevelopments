@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.28.6",
-      "buildVersion": "0.11.28.6",
-      "date": "2026-10-27T23:56:05+00:00",
-      "localizedDescription": "- Your own music on the radio, on the phone. The radio said to drop songs into an \"Arcadeous\" folder that an iPhone doesn't have. Put them in the Files app under On My iPhone › Arcadeous › music, and the radio says so. (Thanks to the tester who sent this with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.28.6.ipa",
-      "size": 40530292,
+      "version": "0.11.29.1",
+      "buildVersion": "0.11.29.1",
+      "date": "2026-10-29T13:59:06+00:00",
+      "localizedDescription": "The ticket tier opens. From level 10 your arcade gets ticket machines, a redemption booth and the prize shelf.\n\n- Ticket machines, one a level from 10 to 18. Drop Zone comes first at level 10, then Tumbler, High Rise, High Striker and The Claw, Gopher Bash, Buzzer Beater, Alley Roller and Coin Pusher. They're on the licence page now.\n- Tickets come off a roll. Every ticket a customer wins is torn off that machine's roll. When the lamp on the ticket door turns amber, open the ticket door from the machine's menu and click to put a new roll on. An empty roll pays nobody, and customers notice.\n- Set each ticket machine's payout from its menu. A stingy machine earns the same and puts people off.\n- The redemption booth (level 11). Customers who leave happy trade their tickets at the counter for a toy. Keep its shelves stocked from the counter's menu: an empty booth sends people home disappointed.\n- The prize shelf (level 15). Pull a guaranteed new piece for your collection with tickets or cash, choose six for the display case, and see what your toys are doing for the shop. Every piece you own gives a bonus: cheaper rent and power, cheaper licences, more customers, fuller wallets, happier crowds, more celebrity visits and more used cabinets for sale.\n- The Claw is stocked with the collection's toys. When you win one yourself, it joins your collection.\n- Your stockhand now changes ticket rolls and restocks the booth and the claw.\n- Pinball, the puck table, the rhythm pad and every ticket machine can be repaired by hand. Their board is behind the service panel, which now opens from the machine's menu. They no longer carry a picture tube they don't have.",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.29.1.ipa",
+      "size": 40555731,
       "minOSVersion": "14.0"
     }
   ],
