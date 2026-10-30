@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.40.1",
-      "buildVersion": "0.11.40.1",
-      "date": "2026-10-30T17:16:42+00:00",
-      "localizedDescription": "- Back no longer closes the game on Android. The system Back swipe or button quit Arcadeous on the spot, mid-shift. It now works like the game's own back: it closes the open menu, or pauses on the floor.",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.40.1.ipa",
-      "size": 40642397,
+      "version": "0.11.41.3",
+      "buildVersion": "0.11.41.3",
+      "date": "2026-10-30T18:11:37+00:00",
+      "localizedDescription": "- Only Menu pauses. On the floor, B no longer opens the pause menu — so swapping A with B in Settings › Controller can never put Pause on A. The pause menu is on Menu (OPTIONS / + on other pads), which no swap moves. B still cancels moving a machine and still closes menus. (Thanks to the tester who sent this with /bug.)\n- Racing cabinets stay solid up close. Walking up to a cabinet with a steering wheel made its lower half vanish and flicker, showing the floor through it. The seat, wheel, pedals and plate now stay drawn at any distance. (Thanks to the tester who sent this with /bug.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.41.3.ipa",
+      "size": 40646748,
       "minOSVersion": "14.0"
     }
   ],
