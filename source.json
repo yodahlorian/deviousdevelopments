@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.42.1",
-          "buildVersion": "0.11.42.1",
-          "date": "2026-10-30T21:46:19+00:00",
-          "localizedDescription": "- A red pad says why. Moving or placing a machine on a red pad used to say only \"something is in the way\", even on open floor. It now says the reason: too close to a machine, keep the doorway clear, or customers could not reach a machine past it (the aisle in front of a row is where its players stand). (Thanks to the tester who sent this with /bug.)\n- Change machines move again. The change machine's menu has MOVE THE CHANGE MACHINE, like every cabinet's. Before, the one you inherit could only be moved once, and a change machine you bought could never be moved. (Thanks to the tester who sent this with /bug.)\n- Android tells the truth about your own music. The radio told Android players to drop mp3s in an iPhone folder. Android has no folder like that yet, so it now says the house stations play; the bug-report button points to /bug in our Discord. (Thanks to the tester who sent this with /bug.)",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.42.1.ipa",
-          "size": 40647833,
+          "version": "0.11.43.1",
+          "buildVersion": "0.11.43.1",
+          "date": "2026-10-30T22:47:54+00:00",
+          "localizedDescription": "- No more invisible machines on phones. On some phones a machine could stop being drawn while still standing there — a change machine became an invisible wall in the middle of the floor, and a racing cabinet lost its lower half up close. Phones now draw every machine in view. (Thanks to the tester who sent this with /bug.)\n- A swipe no longer throws you out of a game. Mid-round on a phone or a controller, Back (the Android Back swipe, or B) now asks first: press it again within two seconds to leave. Before, one Back mid-fight quit the cabinet. (Thanks to the tester who sent this with /bug.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.43.1.ipa",
+          "size": 40646294,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.42.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.42.1",
-      "caption": "A red pad says why. Moving or placing a machine on a red pad used to say only \"something is in the way\", even on open floor. It now says the",
-      "date": "2026-10-30T21:46:19+00:00",
+      "title": "Arcadeous 0.11.43.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.43.1",
+      "caption": "No more invisible machines on phones. On some phones a machine could stop being drawn while still standing there — a change machine became a",
+      "date": "2026-10-30T22:47:54+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
