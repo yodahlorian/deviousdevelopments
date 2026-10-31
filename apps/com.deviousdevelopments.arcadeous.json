@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.43.1",
-      "buildVersion": "0.11.43.1",
-      "date": "2026-10-30T22:47:54+00:00",
-      "localizedDescription": "- No more invisible machines on phones. On some phones a machine could stop being drawn while still standing there — a change machine became an invisible wall in the middle of the floor, and a racing cabinet lost its lower half up close. Phones now draw every machine in view. (Thanks to the tester who sent this with /bug.)\n- A swipe no longer throws you out of a game. Mid-round on a phone or a controller, Back (the Android Back swipe, or B) now asks first: press it again within two seconds to leave. Before, one Back mid-fight quit the cabinet. (Thanks to the tester who sent this with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.43.1.ipa",
-      "size": 40646294,
+      "version": "0.11.44.1",
+      "buildVersion": "0.11.44.1",
+      "date": "2026-10-31T14:21:02+00:00",
+      "localizedDescription": "- One controller press is one press. Many Bluetooth controllers make Android send its own Back as well as their B (on a Nintendo-style pad that is the button marked A), so one press both did its job and paused the game — or left a cabinet. The extra Back is now ignored; the button does only what Settings › Controller says. (Thanks to the tester who sent this with /bug.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.44.1.ipa",
+      "size": 40649063,
       "minOSVersion": "14.0"
     }
   ],
