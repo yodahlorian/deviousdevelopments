@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.45.1",
-      "buildVersion": "0.11.45.1",
-      "date": "2026-10-31T15:07:40+00:00",
-      "localizedDescription": "- Your shop's name, in any colour. The computer's Decor app has a new Shop name box: pick any colour you like for the name on the wall inside and for the name over the front door, each on its own. It changes the moment you pick; Default puts the pink back.\n- Back closes, it doesn't also pause. Closing a menu, cancelling a move, or tapping the on-screen CANCEL could close the thing AND open the pause menu with the same press. One press now does one thing. (Thanks to the tester who sent this with /bug.)\n- Staff pay shows dollars and cents. The console listed a trainee as \"450/day\"; it now reads \"$4.50/day\", the same as the Hire button. (Thanks to the tester who sent this with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.45.1.ipa",
-      "size": 40651318,
+      "version": "0.11.46.1",
+      "buildVersion": "0.11.46.1",
+      "date": "2026-10-31T15:39:18+00:00",
+      "localizedDescription": "- No more invisible wall. Moving a machine could carry the shop's floor with it: the solid part of the floor was set down where the machine went, leaving an invisible ledge across the middle of the shop that stopped you (and confused customers and the build pad) until you restarted. The floor now stays where it is. (Thanks to the tester who sent this with /bug, and who shared their cloud save so we could find it.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.46.1.ipa",
+      "size": 40651396,
       "minOSVersion": "14.0"
     }
   ],
