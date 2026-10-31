@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.44.1",
-          "buildVersion": "0.11.44.1",
-          "date": "2026-10-31T14:21:02+00:00",
-          "localizedDescription": "- One controller press is one press. Many Bluetooth controllers make Android send its own Back as well as their B (on a Nintendo-style pad that is the button marked A), so one press both did its job and paused the game — or left a cabinet. The extra Back is now ignored; the button does only what Settings › Controller says. (Thanks to the tester who sent this with /bug.)",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.44.1.ipa",
-          "size": 40649063,
+          "version": "0.11.45.1",
+          "buildVersion": "0.11.45.1",
+          "date": "2026-10-31T15:07:40+00:00",
+          "localizedDescription": "- Your shop's name, in any colour. The computer's Decor app has a new Shop name box: pick any colour you like for the name on the wall inside and for the name over the front door, each on its own. It changes the moment you pick; Default puts the pink back.\n- Back closes, it doesn't also pause. Closing a menu, cancelling a move, or tapping the on-screen CANCEL could close the thing AND open the pause menu with the same press. One press now does one thing. (Thanks to the tester who sent this with /bug.)\n- Staff pay shows dollars and cents. The console listed a trainee as \"450/day\"; it now reads \"$4.50/day\", the same as the Hire button. (Thanks to the tester who sent this with /bug.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.45.1.ipa",
+          "size": 40651318,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.44.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.44.1",
-      "caption": "One controller press is one press. Many Bluetooth controllers make Android send its own Back as well as their B (on a Nintendo-style pad tha",
-      "date": "2026-10-31T14:21:02+00:00",
+      "title": "Arcadeous 0.11.45.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.45.1",
+      "caption": "Your shop's name, in any colour. The computer's Decor app has a new Shop name box: pick any colour you like for the name on the wall inside ",
+      "date": "2026-10-31T15:07:40+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
