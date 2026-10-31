@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.46.1",
-          "buildVersion": "0.11.46.1",
-          "date": "2026-10-31T15:39:18+00:00",
-          "localizedDescription": "- No more invisible wall. Moving a machine could carry the shop's floor with it: the solid part of the floor was set down where the machine went, leaving an invisible ledge across the middle of the shop that stopped you (and confused customers and the build pad) until you restarted. The floor now stays where it is. (Thanks to the tester who sent this with /bug, and who shared their cloud save so we could find it.)",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.46.1.ipa",
-          "size": 40651396,
+          "version": "0.11.47.1",
+          "buildVersion": "0.11.47.1",
+          "date": "2026-10-31T16:09:24+00:00",
+          "localizedDescription": "- Your staff stay put while you play. Playing a game at a cabinet made every member of staff walk out and come back in through the front door when you stepped away from it. They now carry on exactly where they were. (Thanks to the tester who sent this with /bug.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.47.1.ipa",
+          "size": 40651086,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.46.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.46.1",
-      "caption": "No more invisible wall. Moving a machine could carry the shop's floor with it: the solid part of the floor was set down where the machine we",
-      "date": "2026-10-31T15:39:18+00:00",
+      "title": "Arcadeous 0.11.47.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.47.1",
+      "caption": "Your staff stay put while you play. Playing a game at a cabinet made every member of staff walk out and come back in through the front door ",
+      "date": "2026-10-31T16:09:24+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
