@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.48.1",
-          "buildVersion": "0.11.48.1",
-          "date": "2026-11-01T00:36:57+00:00",
-          "localizedDescription": "- Smoother frame rate on phones. On the shop floor the frame rate could keep jumping up and down, dropping as low as 15 fps. The floor's movement now steps exactly once per frame on a phone, and \"no cap\" on a phone now means a steady 60 fps instead of running the screen flat out until the phone heats up and slows down. You can still pick 120 fps in Settings › Display & Touch › Frame Rate Cap. (Thanks to the tester who sent this with /bug.)",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.48.1.ipa",
-          "size": 40651181,
+          "version": "0.11.49.1",
+          "buildVersion": "0.11.49.1",
+          "date": "2026-11-01T01:15:05+00:00",
+          "localizedDescription": "- No more scrambled carpet and cabinets. Partway through a session the carpet could turn to static or flat purple and the sides of the cabinets go white. The shop's printed art (carpet, cabinet sides, posters) is now kept as ordinary pictures on phones, which hold up for the whole session. (Thanks to the tester who sent this with /bug and a screen recording.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.49.1.ipa",
+          "size": 40654805,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.48.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.48.1",
-      "caption": "Smoother frame rate on phones. On the shop floor the frame rate could keep jumping up and down, dropping as low as 15 fps. The floor's movem",
-      "date": "2026-11-01T00:36:57+00:00",
+      "title": "Arcadeous 0.11.49.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.49.1",
+      "caption": "No more scrambled carpet and cabinets. Partway through a session the carpet could turn to static or flat purple and the sides of the cabinet",
+      "date": "2026-11-01T01:15:05+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
