@@ -26,12 +26,21 @@
   ],
   "versions": [
     {
+      "version": "0.7.7",
+      "buildVersion": "0.7.7",
+      "date": "2026-11-03T20:37:42+00:00",
+      "localizedDescription": "- Come and hang out. The title screen and the pause menu now have a button to join our Discord (discord.gg/xftJz6JvGU) — news, betas, and the people who make the game.",
+      "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.7.ipa",
+      "size": 22350343,
+      "minOSVersion": "14.0"
+    },
+    {
       "version": "0.7.6",
       "buildVersion": "0.7.6",
-      "date": "2026-10-27T19:19:48+00:00",
+      "date": "2026-10-27",
       "localizedDescription": "- iPhone: tap to read at the table. Tap a crew member on the table card to read what it does (it only showed when a mouse hovered it). Tap a Trick and its note comes up first; tap it again to use it. One tap no longer spends a Trick you haven't read.\n- Selling asks first: tap \"sell $\" and the crew member's note opens with \"Tap sell again to sell\". Tap it again to sell; tap anywhere else and they stay.\n- iPhone: the Collection shows what an item is when you tap it (it was hover-only, so on the phone it said nothing).\n- iPhone: the Play / Pass / Hint / Clear / Sort buttons no longer underline a keyboard shortcut letter, and the table says \"tap\", not \"click\".",
       "downloadURL": "https://github.com/yodahlorian/killer2s-beta/releases/download/beta/Killer2s-0.7.6.ipa",
-      "size": 22348250,
+      "size": 0,
       "minOSVersion": "14.0"
     },
     {
