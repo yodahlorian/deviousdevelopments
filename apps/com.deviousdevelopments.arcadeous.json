@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.53.1",
-      "buildVersion": "0.11.53.1",
-      "date": "2026-11-03T18:08:31+00:00",
-      "localizedDescription": "- Come and hang out. The title screen and the pause menu now have a button to join our Discord (discord.gg/xftJz6JvGU) — news, betas, and the people who make the game.",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.53.1.ipa",
-      "size": 40707960,
+      "version": "0.11.54.1",
+      "buildVersion": "0.11.54.1",
+      "date": "2026-11-03T20:21:21+00:00",
+      "localizedDescription": "- Placing a machine no longer opens its neighbour's menu. Setting a machine down (or moving one) with PLACE could also open the menu of a cabinet standing nearby — the one tap did both. It only places now.\n- Report a bug works on phones. The report is saved in the app's own storage, and if anything goes wrong the menu says so in the middle of the screen instead of a message hidden at the bottom edge. The question to send it sits on screen too. (Thanks to the tester who sent both of these with /bug.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.54.1.ipa",
+      "size": 40708673,
       "minOSVersion": "14.0"
     }
   ],
