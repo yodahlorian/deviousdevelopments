@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.52.1",
-      "buildVersion": "0.11.52.1",
-      "date": "2026-11-03T16:52:57+00:00",
-      "localizedDescription": "- The OPEN sign is easy to switch. Opening or closing the arcade meant lining your view up with the very middle of the sign, which was fiddly up close — the prompt now shows whenever you're looking at any part of the sign. (Thanks to the tester who sent this with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.52.1.ipa",
-      "size": 40701091,
+      "version": "0.11.53.1",
+      "buildVersion": "0.11.53.1",
+      "date": "2026-11-03T18:08:31+00:00",
+      "localizedDescription": "- Come and hang out. The title screen and the pause menu now have a button to join our Discord (discord.gg/xftJz6JvGU) — news, betas, and the people who make the game.",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.53.1.ipa",
+      "size": 40707960,
       "minOSVersion": "14.0"
     }
   ],
