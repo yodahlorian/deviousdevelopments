@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.51.1",
-          "buildVersion": "0.11.51.1",
-          "date": "2026-11-02T20:06:12+00:00",
-          "localizedDescription": "- Cocktail tables are back to how they were. The stools in 0.11.50 went out before they were finished; they'll return when they're ready. The memory fix from 0.11.50 stays.",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.51.1.ipa",
-          "size": 40691401,
+          "version": "0.11.52.1",
+          "buildVersion": "0.11.52.1",
+          "date": "2026-11-03T16:52:57+00:00",
+          "localizedDescription": "- The OPEN sign is easy to switch. Opening or closing the arcade meant lining your view up with the very middle of the sign, which was fiddly up close — the prompt now shows whenever you're looking at any part of the sign. (Thanks to the tester who sent this with /bug.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.52.1.ipa",
+          "size": 40701091,
           "minOSVersion": "14.0"
         }
       ],
@@ -417,10 +417,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.51.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.51.1",
-      "caption": "Cocktail tables are back to how they were. The stools in 0.11.50 went out before they were finished; they'll return when they're ready. The ",
-      "date": "2026-11-02T20:06:12+00:00",
+      "title": "Arcadeous 0.11.52.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.52.1",
+      "caption": "The OPEN sign is easy to switch. Opening or closing the arcade meant lining your view up with the very middle of the sign, which was fiddly ",
+      "date": "2026-11-03T16:52:57+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
