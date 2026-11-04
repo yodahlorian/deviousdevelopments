@@ -41,12 +41,12 @@
   ],
   "versions": [
     {
-      "version": "0.11.54.1",
-      "buildVersion": "0.11.54.1",
-      "date": "2026-11-03T20:21:21+00:00",
-      "localizedDescription": "- Placing a machine no longer opens its neighbour's menu. Setting a machine down (or moving one) with PLACE could also open the menu of a cabinet standing nearby — the one tap did both. It only places now.\n- Report a bug works on phones. The report is saved in the app's own storage, and if anything goes wrong the menu says so in the middle of the screen instead of a message hidden at the bottom edge. The question to send it sits on screen too. (Thanks to the tester who sent both of these with /bug.)",
-      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.54.1.ipa",
-      "size": 40708673,
+      "version": "0.11.55.1",
+      "buildVersion": "0.11.55.1",
+      "date": "2026-11-04T02:50:08+00:00",
+      "localizedDescription": "- A machine you moved answers again. After moving a cabinet, standing in front of it could show the prompt and open the menu of a different machine nearby — and the moved one had no menu at all until the app was restarted. Each moved machine now answers from its own front. (Thanks to the tester who sent the recording.)",
+      "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.55.1.ipa",
+      "size": 40710540,
       "minOSVersion": "14.0"
     }
   ],
