@@ -55,12 +55,12 @@
       ],
       "versions": [
         {
-          "version": "0.11.55.1",
-          "buildVersion": "0.11.55.1",
-          "date": "2026-11-04T02:50:08+00:00",
-          "localizedDescription": "- A machine you moved answers again. After moving a cabinet, standing in front of it could show the prompt and open the menu of a different machine nearby — and the moved one had no menu at all until the app was restarted. Each moved machine now answers from its own front. (Thanks to the tester who sent the recording.)",
-          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.55.1.ipa",
-          "size": 40710540,
+          "version": "0.11.56.1",
+          "buildVersion": "0.11.56.1",
+          "date": "2026-11-09T20:14:11+00:00",
+          "localizedDescription": "- Placing a machine no longer opens its neighbour's menu (again). One more way the PLACE tap could also reach a cabinet nearby is closed: while you are placing or moving a machine, nothing else on the floor answers.\n- Cloud saves upload when you leave the app. Switching away or closing the app now really sends your latest save to the cloud; before, that upload could fail without a word.\n- Joysticks sit on their washers. The stick on every joystick cabinet floated a little above its base. Fixed.\n- Better bug reports. Report a bug now includes a short record of the last session, so a crash can be traced even after the app has been reopened. (Thanks to the Android tester who tested build after build this week.)",
+          "downloadURL": "https://github.com/yodahlorian/arcadeous-beta/releases/download/beta/Arcadeous-0.11.56.1.ipa",
+          "size": 40742107,
           "minOSVersion": "14.0"
         }
       ],
@@ -426,10 +426,10 @@
   ],
   "news": [
     {
-      "title": "Arcadeous 0.11.55.1",
-      "identifier": "com.deviousdevelopments.arcadeous-0.11.55.1",
-      "caption": "A machine you moved answers again. After moving a cabinet, standing in front of it could show the prompt and open the menu of a different ma",
-      "date": "2026-11-04T02:50:08+00:00",
+      "title": "Arcadeous 0.11.56.1",
+      "identifier": "com.deviousdevelopments.arcadeous-0.11.56.1",
+      "caption": "Placing a machine no longer opens its neighbour's menu (again). One more way the PLACE tap could also reach a cabinet nearby is closed: whil",
+      "date": "2026-11-09T20:14:11+00:00",
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
