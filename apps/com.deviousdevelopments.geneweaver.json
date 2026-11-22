@@ -10,12 +10,12 @@
   "screenshots": [],
   "versions": [
     {
-      "version": "0.1.0.1",
-      "buildVersion": "0.1.0.1",
-      "date": "2026-11-22T06:59:50+00:00",
-      "localizedDescription": "The first playable slice of Geneweaver.\n\n- Pick your starter and set out across 7 towns, each with a healing centre, a shop, a gym and its own catch zone.\n- 12 routes between the towns change every time you set foot on one: wild creatures, trainers or a market. Once you start a route, you finish it.\n- Battles are blind picks: Attack, Block, Magic, Heal or Debuff. Every pick beats two and loses to two, and the faster creature gets a hint about what its rival did NOT choose.\n- Five types, each strong against two and weak against two. Traits give every creature its own strengths and weaknesses.\n- Catch creatures with the Capture Cube. Toss a food first to stop them running, keep them from fainting, or make them easier to catch. Lures bring the types you want.\n- XP is shared by your whole team, and every level you place one stat point yourself.\n- Merge two creatures at the Loom in Fusionville. The child looks like its parents, in order, so every merge is its own creature.\n- The Shuttle Pad keeps a record of every creature you have met.\n- 35 gym badges: 7 gyms, each beaten 5 times as they grow stronger.\n- Chiptune music and sound, saves, and a handheld-console look with 6 styles in Options.\n- Play with keyboard, gamepad, mouse or touch. On phones the console stands upright.",
-      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.1.0.1.ipa",
-      "size": 20048337,
+      "version": "0.1.1.1",
+      "buildVersion": "0.1.1.1",
+      "date": "2026-11-22T07:16:29+00:00",
+      "localizedDescription": "- Hold B to run.\n- A local in every town with tips, and Dr. Hollis in Homestead.\n- Grass and paths are easier to tell apart.\n- At the top of a route you can leave from either lane.\n- The game saves when you leave the app while in a town.\n- Battles rebalanced: stats, traits and type advantage retuned from 100,000 simulated fights; no single stat or trait is the best pick.\n- Levelling is twice as fast.",
+      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.1.1.1.ipa",
+      "size": 20023021,
       "minOSVersion": "14.0"
     }
   ],
