@@ -80,18 +80,18 @@
       "developerName": "Devious Developments",
       "subtitle": "Catch them. Merge them. Weave your own.",
       "localizedDescription": "A creature-catching battler in a sunny world of tomorrow that went sideways. Catch wildlife tangled up with retro tech, battle in blind picks where speed shows you what your rival did NOT choose, and merge creatures into new ones nobody else has.\n\niPhone beta: portrait, with the pad and buttons below the game screen.",
-      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.geneweaver.png?v=e3f6e03129",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.geneweaver.png?v=110f2d00f4",
       "tintColor": "#7FD16A",
       "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "version": "0.1.2.1",
-          "buildVersion": "0.1.2.1",
-          "date": "2026-11-22T07:23:34+00:00",
-          "localizedDescription": "- Trainers and gym leaders now appear at the start of their battles.",
-          "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.1.2.1.ipa",
-          "size": 20023513,
+          "version": "0.2.0.1",
+          "buildVersion": "0.2.0.1",
+          "date": "2026-11-22T23:19:49+00:00",
+          "localizedDescription": "- A new opening: Dr. Hollis's lab, five pedestals, look at each creature before you choose your partner.\n- Redrawn people (player, Dr. Hollis, trainers) with a proper walk.\n- Creature fronts drawn at full size, no floating parts.\n- New Midnight Neon shell is the default; bigger screen, smoother D-pad.\n- Towns in full colour: three-quarter-view buildings, even doors, atomic-age roofs.\n- Buildings carry emblems instead of names: caduceus (heal), flask (lab), money bag (shop), fist (gym), helix (Loom).\n- Every menu fits its box; the world map marks where you are with a red dot.\n- The Loom shows the child's stat shape against both parents, its types, tier, cap and traits.\n- A full stats screen: your own placed points in gold, trait bonuses in green and drawbacks in red, type matchups, lineage.\n- Healing happens inside the Restore Center: the medic loads your cubes and the machine solves them back to health.\n- New capture animation: the cube bursts on the creature, closes around it and solves itself in its colour.\n- A new game emblem and app icon.",
+          "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.2.0.1.ipa",
+          "size": 20145087,
           "minOSVersion": "14.0"
         }
       ],
@@ -466,10 +466,10 @@
       "appID": "com.deviousdevelopments.arcadeous"
     },
     {
-      "title": "Geneweaver 0.1.2.1",
-      "identifier": "com.deviousdevelopments.geneweaver-0.1.2.1",
-      "caption": "Trainers and gym leaders now appear at the start of their battles.",
-      "date": "2026-11-22T07:23:34+00:00",
+      "title": "Geneweaver 0.2.0.1",
+      "identifier": "com.deviousdevelopments.geneweaver-0.2.0.1",
+      "caption": "A new opening: Dr. Hollis's lab, five pedestals, look at each creature before you choose your partner.",
+      "date": "2026-11-22T23:19:49+00:00",
       "tintColor": "#7FD16A",
       "notify": false,
       "appID": "com.deviousdevelopments.geneweaver"
