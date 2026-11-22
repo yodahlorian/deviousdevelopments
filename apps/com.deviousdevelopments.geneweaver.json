@@ -10,12 +10,12 @@
   "screenshots": [],
   "versions": [
     {
-      "version": "0.1.1.1",
-      "buildVersion": "0.1.1.1",
-      "date": "2026-11-22T07:16:29+00:00",
-      "localizedDescription": "- Hold B to run.\n- A local in every town with tips, and Dr. Hollis in Homestead.\n- Grass and paths are easier to tell apart.\n- At the top of a route you can leave from either lane.\n- The game saves when you leave the app while in a town.\n- Battles rebalanced: stats, traits and type advantage retuned from 100,000 simulated fights; no single stat or trait is the best pick.\n- Levelling is twice as fast.",
-      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.1.1.1.ipa",
-      "size": 20023021,
+      "version": "0.1.2.1",
+      "buildVersion": "0.1.2.1",
+      "date": "2026-11-22T07:23:34+00:00",
+      "localizedDescription": "- Trainers and gym leaders now appear at the start of their battles.",
+      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.1.2.1.ipa",
+      "size": 20023513,
       "minOSVersion": "14.0"
     }
   ],
