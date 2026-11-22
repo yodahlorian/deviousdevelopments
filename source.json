@@ -2,12 +2,13 @@
   "name": "Devious Developments",
   "identifier": "com.deviousdevelopments.studio",
   "subtitle": "Every iPhone beta from Devious Developments",
-  "description": "One source for every Devious Developments game: Arcadeous · Hackfest · Killer 2s.",
+  "description": "One source for every Devious Developments game: Arcadeous · Geneweaver · Hackfest · Killer 2s.",
   "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/studio.png?v=c59be285ac",
   "website": "https://github.com/yodahlorian/deviousdevelopments",
   "tintColor": "#C9A44C",
   "featuredApps": [
     "com.deviousdevelopments.arcadeous",
+    "com.deviousdevelopments.geneweaver",
     "com.deviousdevelopments.hackfest",
     "com.deviousdevelopments.killer2s"
   ],
@@ -70,6 +71,36 @@
           "NSCameraUsageDescription": "Arcadeous never uses the camera.",
           "NSMicrophoneUsageDescription": "Arcadeous never uses the microphone.",
           "NSPhotoLibraryUsageDescription": "Arcadeous never reads your photos."
+        }
+      }
+    },
+    {
+      "name": "Geneweaver",
+      "bundleIdentifier": "com.deviousdevelopments.geneweaver",
+      "developerName": "Devious Developments",
+      "subtitle": "Catch them. Merge them. Weave your own.",
+      "localizedDescription": "A creature-catching battler in a sunny world of tomorrow that went sideways. Catch wildlife tangled up with retro tech, battle in blind picks where speed shows you what your rival did NOT choose, and merge creatures into new ones nobody else has.\n\niPhone beta: portrait, with the pad and buttons below the game screen.",
+      "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.geneweaver.png?v=e3f6e03129",
+      "tintColor": "#7FD16A",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.1.0.1",
+          "buildVersion": "0.1.0.1",
+          "date": "2026-11-22T06:59:50+00:00",
+          "localizedDescription": "The first playable slice of Geneweaver.\n\n- Pick your starter and set out across 7 towns, each with a healing centre, a shop, a gym and its own catch zone.\n- 12 routes between the towns change every time you set foot on one: wild creatures, trainers or a market. Once you start a route, you finish it.\n- Battles are blind picks: Attack, Block, Magic, Heal or Debuff. Every pick beats two and loses to two, and the faster creature gets a hint about what its rival did NOT choose.\n- Five types, each strong against two and weak against two. Traits give every creature its own strengths and weaknesses.\n- Catch creatures with the Capture Cube. Toss a food first to stop them running, keep them from fainting, or make them easier to catch. Lures bring the types you want.\n- XP is shared by your whole team, and every level you place one stat point yourself.\n- Merge two creatures at the Loom in Fusionville. The child looks like its parents, in order, so every merge is its own creature.\n- The Shuttle Pad keeps a record of every creature you have met.\n- 35 gym badges: 7 gyms, each beaten 5 times as they grow stronger.\n- Chiptune music and sound, saves, and a handheld-console look with 6 styles in Options.\n- Play with keyboard, gamepad, mouse or touch. On phones the console stands upright.",
+          "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.1.0.1.ipa",
+          "size": 20048337,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Geneweaver never uses the camera.",
+          "NSMicrophoneUsageDescription": "Geneweaver never uses the microphone.",
+          "NSPhotoLibraryUsageDescription": "Geneweaver never reads your photos."
         }
       }
     },
@@ -433,6 +464,15 @@
       "tintColor": "#38C8FF",
       "notify": false,
       "appID": "com.deviousdevelopments.arcadeous"
+    },
+    {
+      "title": "Geneweaver 0.1.0.1",
+      "identifier": "com.deviousdevelopments.geneweaver-0.1.0.1",
+      "caption": "The first playable slice of Geneweaver.",
+      "date": "2026-11-22T06:59:50+00:00",
+      "tintColor": "#7FD16A",
+      "notify": false,
+      "appID": "com.deviousdevelopments.geneweaver"
     },
     {
       "title": "Hackfest 0.20.1.4",
