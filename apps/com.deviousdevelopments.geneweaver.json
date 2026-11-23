@@ -46,12 +46,12 @@
   ],
   "versions": [
     {
-      "version": "0.2.0.1",
-      "buildVersion": "0.2.0.1",
-      "date": "2026-11-22T23:19:49+00:00",
-      "localizedDescription": "- A new opening: Dr. Hollis's lab, five pedestals, look at each creature before you choose your partner.\n- Redrawn people (player, Dr. Hollis, trainers) with a proper walk.\n- Creature fronts drawn at full size, no floating parts.\n- New Midnight Neon shell is the default; bigger screen, smoother D-pad.\n- Towns in full colour: three-quarter-view buildings, even doors, atomic-age roofs.\n- Buildings carry emblems instead of names: caduceus (heal), flask (lab), money bag (shop), fist (gym), helix (Loom).\n- Every menu fits its box; the world map marks where you are with a red dot.\n- The Loom shows the child's stat shape against both parents, its types, tier, cap and traits.\n- A full stats screen: your own placed points in gold, trait bonuses in green and drawbacks in red, type matchups, lineage.\n- Healing happens inside the Restore Center: the medic loads your cubes and the machine solves them back to health.\n- New capture animation: the cube bursts on the creature, closes around it and solves itself in its colour.\n- A new game emblem and app icon.",
-      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.2.0.1.ipa",
-      "size": 20145087,
+      "version": "0.2.1.1",
+      "buildVersion": "0.2.1.1",
+      "date": "2026-11-23T01:58:34+00:00",
+      "localizedDescription": "- Phones: SELECT and START are much easier to tap (their touch areas now cover the pill and its label).",
+      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.2.1.1.ipa",
+      "size": 20145443,
       "minOSVersion": "14.0"
     }
   ],
