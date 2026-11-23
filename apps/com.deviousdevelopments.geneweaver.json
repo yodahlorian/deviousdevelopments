@@ -46,12 +46,12 @@
   ],
   "versions": [
     {
-      "version": "0.2.1.1",
-      "buildVersion": "0.2.1.1",
-      "date": "2026-11-23T01:58:34+00:00",
-      "localizedDescription": "- Phones: SELECT and START are much easier to tap (their touch areas now cover the pill and its label).",
-      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.2.1.1.ipa",
-      "size": 20145443,
+      "version": "0.2.2.1",
+      "buildVersion": "0.2.2.1",
+      "date": "2026-11-23T04:26:37+00:00",
+      "localizedDescription": "- A hidden cheat menu for testing. Off every time the game starts.",
+      "downloadURL": "https://github.com/yodahlorian/geneweaver-beta/releases/download/beta/Geneweaver-0.2.2.1.ipa",
+      "size": 20152913,
       "minOSVersion": "14.0"
     }
   ],
