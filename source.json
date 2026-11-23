@@ -83,7 +83,43 @@
       "iconURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/icons/com.deviousdevelopments.geneweaver.png?v=110f2d00f4",
       "tintColor": "#7FD16A",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/01.jpg",
+          "width": 1920,
+          "height": 1728
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/02.jpg",
+          "width": 1920,
+          "height": 1728
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/03.jpg",
+          "width": 1920,
+          "height": 1728
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/04.jpg",
+          "width": 1920,
+          "height": 1728
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/05.jpg",
+          "width": 1920,
+          "height": 1728
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/06.jpg",
+          "width": 1920,
+          "height": 1728
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/yodahlorian/deviousdevelopments/main/screens/com.deviousdevelopments.geneweaver/07.jpg",
+          "width": 1920,
+          "height": 1728
+        }
+      ],
       "versions": [
         {
           "version": "0.2.0.1",
