@@ -7,5 +7,6 @@ Add ONE source in AltStore or SideStore and every game appears, updating by itse
 | Game | Beta page (install guide, changelog, .ipa) |
 |---|---|
 | Arcadeous | [yodahlorian/arcadeous-beta](https://github.com/yodahlorian/arcadeous-beta) |
+| Geneweaver | [yodahlorian/geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) |
 | Hackfest | [yodahlorian/hackfest-beta](https://github.com/yodahlorian/hackfest-beta) |
 | Killer 2s | [yodahlorian/killer2s-beta](https://github.com/yodahlorian/killer2s-beta) |
